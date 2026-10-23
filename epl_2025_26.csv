@@ -1,0 +1,381 @@
+Round,DateStr,HomeTeam,AwayTeam,FullTimeHomeGoals,FullTimeAwayGoals,FullTimeResult,Season
+1,Fri Aug 15 2025,Liverpool,Bournemouth,4,2,H,2025/26
+1,Sat Aug 16,Aston Villa,Newcastle United,0,0,D,2025/26
+1,Sat Aug 16,Sunderland,West Ham United,3,0,H,2025/26
+1,Sat Aug 16,Brighton & Hove Albion,Fulham,1,1,D,2025/26
+1,Sat Aug 16,Tottenham Hotspur,Burnley,3,0,H,2025/26
+1,Sat Aug 16,Wolverhampton Wanderers,Manchester City,0,4,A,2025/26
+1,Sun Aug 17,Chelsea FC,Crystal Palace,0,0,D,2025/26
+1,Sun Aug 17,Nottingham Forest,Brentford,3,1,H,2025/26
+1,Sun Aug 17,Manchester United,Arsenal,0,1,A,2025/26
+1,Mon Aug 18,Leeds United,Everton,1,0,H,2025/26
+2,Fri Aug 22,West Ham United,Chelsea FC,1,5,A,2025/26
+2,Sat Aug 23,Manchester City,Tottenham Hotspur,0,2,A,2025/26
+2,Sat Aug 23,Burnley,Sunderland,2,0,H,2025/26
+2,Sat Aug 23,Brentford,Aston Villa,1,0,H,2025/26
+2,Sat Aug 23,Bournemouth,Wolverhampton Wanderers,1,0,H,2025/26
+2,Sat Aug 23,Arsenal,Leeds United,5,0,H,2025/26
+2,Sun Aug 24,Crystal Palace,Nottingham Forest,1,1,D,2025/26
+2,Sun Aug 24,Everton,Brighton & Hove Albion,2,0,H,2025/26
+2,Sun Aug 24,Fulham,Manchester United,1,1,D,2025/26
+2,Mon Aug 25,Newcastle United,Liverpool,2,3,A,2025/26
+3,Sat Aug 30,Chelsea FC,Fulham,2,0,H,2025/26
+3,Sat Aug 30,Tottenham Hotspur,Bournemouth,0,1,A,2025/26
+3,Sat Aug 30,Sunderland,Brentford,2,1,H,2025/26
+3,Sat Aug 30,Manchester United,Burnley,3,2,H,2025/26
+3,Sat Aug 30,Wolverhampton Wanderers,Everton,2,3,A,2025/26
+3,Sat Aug 30,Leeds United,Newcastle United,0,0,D,2025/26
+3,Sun Aug 31,Brighton & Hove Albion,Manchester City,2,1,H,2025/26
+3,Sun Aug 31,Nottingham Forest,West Ham United,0,3,A,2025/26
+3,Sun Aug 31,Liverpool,Arsenal,1,0,H,2025/26
+3,Sun Aug 31,Aston Villa,Crystal Palace,0,3,A,2025/26
+4,Sat Sep 13,Arsenal,Nottingham Forest,3,0,H,2025/26
+4,Sat Sep 13,Newcastle United,Wolverhampton Wanderers,1,0,H,2025/26
+4,Sat Sep 13,Bournemouth,Brighton & Hove Albion,2,1,H,2025/26
+4,Sat Sep 13,Crystal Palace,Sunderland,0,0,D,2025/26
+4,Sat Sep 13,Fulham,Leeds United,1,0,H,2025/26
+4,Sat Sep 13,Everton,Aston Villa,0,0,D,2025/26
+4,Sat Sep 13,West Ham United,Tottenham Hotspur,0,3,A,2025/26
+4,Sat Sep 13,Brentford,Chelsea FC,2,2,D,2025/26
+4,Sun Sep 14,Burnley,Liverpool,0,1,A,2025/26
+4,Sun Sep 14,Manchester City,Manchester United,3,0,H,2025/26
+5,Sat Sep 20,Liverpool,Everton,2,1,H,2025/26
+5,Sat Sep 20,Burnley,Nottingham Forest,1,1,D,2025/26
+5,Sat Sep 20,Brighton & Hove Albion,Tottenham Hotspur,2,2,D,2025/26
+5,Sat Sep 20,Wolverhampton Wanderers,Leeds United,1,3,A,2025/26
+5,Sat Sep 20,West Ham United,Crystal Palace,1,2,A,2025/26
+5,Sat Sep 20,Manchester United,Chelsea FC,2,1,H,2025/26
+5,Sat Sep 20,Fulham,Brentford,3,1,H,2025/26
+5,Sun Sep 21,Sunderland,Aston Villa,1,1,D,2025/26
+5,Sun Sep 21,Bournemouth,Newcastle United,0,0,D,2025/26
+5,Sun Sep 21,Arsenal,Manchester City,1,1,D,2025/26
+6,Sat Sep 27,Brentford,Manchester United,3,1,H,2025/26
+6,Sat Sep 27,Crystal Palace,Liverpool,2,1,H,2025/26
+6,Sat Sep 27,Chelsea FC,Brighton & Hove Albion,1,3,A,2025/26
+6,Sat Sep 27,Manchester City,Burnley,5,1,H,2025/26
+6,Sat Sep 27,Leeds United,Bournemouth,2,2,D,2025/26
+6,Sat Sep 27,Nottingham Forest,Sunderland,0,1,A,2025/26
+6,Sat Sep 27,Tottenham Hotspur,Wolverhampton Wanderers,1,1,D,2025/26
+6,Sun Sep 28,Aston Villa,Fulham,3,1,H,2025/26
+6,Sun Sep 28,Newcastle United,Arsenal,1,2,A,2025/26
+6,Mon Sep 29,Everton,West Ham United,1,1,D,2025/26
+7,Fri Oct 3,Bournemouth,Fulham,3,1,H,2025/26
+7,Sat Oct 4,Leeds United,Tottenham Hotspur,1,2,A,2025/26
+7,Sat Oct 4,Manchester United,Sunderland,2,0,H,2025/26
+7,Sat Oct 4,Arsenal,West Ham United,2,0,H,2025/26
+7,Sat Oct 4,Chelsea FC,Liverpool,2,1,H,2025/26
+7,Sun Oct 5,Newcastle United,Nottingham Forest,2,0,H,2025/26
+7,Sun Oct 5,Aston Villa,Burnley,2,1,H,2025/26
+7,Sun Oct 5,Wolverhampton Wanderers,Brighton & Hove Albion,1,1,D,2025/26
+7,Sun Oct 5,Everton,Crystal Palace,2,1,H,2025/26
+7,Sun Oct 5,Brentford,Manchester City,0,1,A,2025/26
+8,Sat Oct 18,Nottingham Forest,Chelsea FC,0,3,A,2025/26
+8,Sat Oct 18,Sunderland,Wolverhampton Wanderers,2,0,H,2025/26
+8,Sat Oct 18,Brighton & Hove Albion,Newcastle United,2,1,H,2025/26
+8,Sat Oct 18,Manchester City,Everton,2,0,H,2025/26
+8,Sat Oct 18,Crystal Palace,Bournemouth,3,3,D,2025/26
+8,Sat Oct 18,Burnley,Leeds United,2,0,H,2025/26
+8,Sat Oct 18,Fulham,Arsenal,0,1,A,2025/26
+8,Sun Oct 19,Tottenham Hotspur,Aston Villa,1,2,A,2025/26
+8,Sun Oct 19,Liverpool,Manchester United,1,2,A,2025/26
+8,Mon Oct 20,West Ham United,Brentford,0,2,A,2025/26
+9,Fri Oct 24,Leeds United,West Ham United,2,1,H,2025/26
+9,Sat Oct 25,Chelsea FC,Sunderland,1,2,A,2025/26
+9,Sat Oct 25,Newcastle United,Fulham,2,1,H,2025/26
+9,Sat Oct 25,Manchester United,Brighton & Hove Albion,4,2,H,2025/26
+9,Sat Oct 25,Brentford,Liverpool,3,2,H,2025/26
+9,Sun Oct 26,Aston Villa,Manchester City,1,0,H,2025/26
+9,Sun Oct 26,Arsenal,Crystal Palace,1,0,H,2025/26
+9,Sun Oct 26,Wolverhampton Wanderers,Burnley,2,3,A,2025/26
+9,Sun Oct 26,Bournemouth,Nottingham Forest,2,0,H,2025/26
+9,Sun Oct 26,Everton,Tottenham Hotspur,0,3,A,2025/26
+10,Sat Nov 1,Fulham,Wolverhampton Wanderers,3,0,H,2025/26
+10,Sat Nov 1,Crystal Palace,Brentford,2,0,H,2025/26
+10,Sat Nov 1,Nottingham Forest,Manchester United,2,2,D,2025/26
+10,Sat Nov 1,Burnley,Arsenal,0,2,A,2025/26
+10,Sat Nov 1,Brighton & Hove Albion,Leeds United,3,0,H,2025/26
+10,Sat Nov 1,Tottenham Hotspur,Chelsea FC,0,1,A,2025/26
+10,Sat Nov 1,Liverpool,Aston Villa,2,0,H,2025/26
+10,Sun Nov 2,West Ham United,Newcastle United,3,1,H,2025/26
+10,Sun Nov 2,Manchester City,Bournemouth,3,1,H,2025/26
+10,Mon Nov 3,Sunderland,Everton,1,1,D,2025/26
+11,Sat Nov 8,Tottenham Hotspur,Manchester United,2,2,D,2025/26
+11,Sat Nov 8,Everton,Fulham,2,0,H,2025/26
+11,Sat Nov 8,West Ham United,Burnley,3,2,H,2025/26
+11,Sat Nov 8,Sunderland,Arsenal,2,2,D,2025/26
+11,Sat Nov 8,Chelsea FC,Wolverhampton Wanderers,3,0,H,2025/26
+11,Sun Nov 9,Nottingham Forest,Leeds United,3,1,H,2025/26
+11,Sun Nov 9,Aston Villa,Bournemouth,4,0,H,2025/26
+11,Sun Nov 9,Brentford,Newcastle United,3,1,H,2025/26
+11,Sun Nov 9,Crystal Palace,Brighton & Hove Albion,0,0,D,2025/26
+11,Sun Nov 9,Manchester City,Liverpool,3,0,H,2025/26
+12,Sat Nov 22,Burnley,Chelsea FC,0,2,A,2025/26
+12,Sat Nov 22,Liverpool,Nottingham Forest,0,3,A,2025/26
+12,Sat Nov 22,Wolverhampton Wanderers,Crystal Palace,0,2,A,2025/26
+12,Sat Nov 22,Fulham,Sunderland,1,0,H,2025/26
+12,Sat Nov 22,Bournemouth,West Ham United,2,2,D,2025/26
+12,Sat Nov 22,Brighton & Hove Albion,Brentford,2,1,H,2025/26
+12,Sat Nov 22,Newcastle United,Manchester City,2,1,H,2025/26
+12,Sun Nov 23,Leeds United,Aston Villa,1,2,A,2025/26
+12,Sun Nov 23,Arsenal,Tottenham Hotspur,4,1,H,2025/26
+12,Mon Nov 24,Manchester United,Everton,0,1,A,2025/26
+13,Sat Nov 29,Sunderland,Bournemouth,3,2,H,2025/26
+13,Sat Nov 29,Manchester City,Leeds United,3,2,H,2025/26
+13,Sat Nov 29,Brentford,Burnley,3,1,H,2025/26
+13,Sat Nov 29,Everton,Newcastle United,1,4,A,2025/26
+13,Sat Nov 29,Tottenham Hotspur,Fulham,1,2,A,2025/26
+13,Sun Nov 30,Crystal Palace,Manchester United,1,2,A,2025/26
+13,Sun Nov 30,West Ham United,Liverpool,0,2,A,2025/26
+13,Sun Nov 30,Aston Villa,Wolverhampton Wanderers,1,0,H,2025/26
+13,Sun Nov 30,Nottingham Forest,Brighton & Hove Albion,0,2,A,2025/26
+13,Sun Nov 30,Chelsea FC,Arsenal,1,1,D,2025/26
+14,Tue Dec 2,Bournemouth,Everton,0,1,A,2025/26
+14,Tue Dec 2,Fulham,Manchester City,4,5,A,2025/26
+14,Tue Dec 2,Newcastle United,Tottenham Hotspur,2,2,D,2025/26
+14,Wed Dec 3,Wolverhampton Wanderers,Nottingham Forest,0,1,A,2025/26
+14,Wed Dec 3,Arsenal,Brentford,2,0,H,2025/26
+14,Wed Dec 3,Brighton & Hove Albion,Aston Villa,3,4,A,2025/26
+14,Wed Dec 3,Burnley,Crystal Palace,0,1,A,2025/26
+14,Wed Dec 3,Leeds United,Chelsea FC,3,1,H,2025/26
+14,Wed Dec 3,Liverpool,Sunderland,1,1,D,2025/26
+14,Thu Dec 4,Manchester United,West Ham United,1,1,D,2025/26
+15,Sat Dec 6,Aston Villa,Arsenal,2,1,H,2025/26
+15,Sat Dec 6,Bournemouth,Chelsea FC,0,0,D,2025/26
+15,Sat Dec 6,Manchester City,Sunderland,3,0,H,2025/26
+15,Sat Dec 6,Everton,Nottingham Forest,3,0,H,2025/26
+15,Sat Dec 6,Tottenham Hotspur,Brentford,2,0,H,2025/26
+15,Sat Dec 6,Newcastle United,Burnley,2,1,H,2025/26
+15,Sat Dec 6,Leeds United,Liverpool,3,3,D,2025/26
+15,Sun Dec 7,Brighton & Hove Albion,West Ham United,1,1,D,2025/26
+15,Sun Dec 7,Fulham,Crystal Palace,1,2,A,2025/26
+15,Mon Dec 8,Wolverhampton Wanderers,Manchester United,1,4,A,2025/26
+16,Sat Dec 13,Chelsea FC,Everton,2,0,H,2025/26
+16,Sat Dec 13,Liverpool,Brighton & Hove Albion,2,0,H,2025/26
+16,Sat Dec 13,Burnley,Fulham,2,3,A,2025/26
+16,Sat Dec 13,Arsenal,Wolverhampton Wanderers,2,1,H,2025/26
+16,Sun Dec 14,Nottingham Forest,Tottenham Hotspur,3,0,H,2025/26
+16,Sun Dec 14,Sunderland,Newcastle United,1,0,H,2025/26
+16,Sun Dec 14,Crystal Palace,Manchester City,0,3,A,2025/26
+16,Sun Dec 14,West Ham United,Aston Villa,2,3,A,2025/26
+16,Sun Dec 14,Brentford,Leeds United,1,1,D,2025/26
+16,Mon Dec 15,Manchester United,Bournemouth,4,4,D,2025/26
+17,Sat Dec 20,Newcastle United,Chelsea FC,2,2,D,2025/26
+17,Sat Dec 20,Bournemouth,Burnley,1,1,D,2025/26
+17,Sat Dec 20,Wolverhampton Wanderers,Brentford,0,2,A,2025/26
+17,Sat Dec 20,Brighton & Hove Albion,Sunderland,0,0,D,2025/26
+17,Sat Dec 20,Manchester City,West Ham United,3,0,H,2025/26
+17,Sat Dec 20,Tottenham Hotspur,Liverpool,1,2,A,2025/26
+17,Sat Dec 20,Leeds United,Crystal Palace,4,1,H,2025/26
+17,Sat Dec 20,Everton,Arsenal,0,1,A,2025/26
+17,Sun Dec 21,Aston Villa,Manchester United,2,1,H,2025/26
+17,Mon Dec 22,Fulham,Nottingham Forest,1,0,H,2025/26
+18,Fri Dec 26,Manchester United,Newcastle United,1,0,H,2025/26
+18,Sat Dec 27,Nottingham Forest,Manchester City,1,2,A,2025/26
+18,Sat Dec 27,West Ham United,Fulham,0,1,A,2025/26
+18,Sat Dec 27,Brentford,Bournemouth,4,1,H,2025/26
+18,Sat Dec 27,Arsenal,Brighton & Hove Albion,2,1,H,2025/26
+18,Sat Dec 27,Liverpool,Wolverhampton Wanderers,2,1,H,2025/26
+18,Sat Dec 27,Burnley,Everton,0,0,D,2025/26
+18,Sat Dec 27,Chelsea FC,Aston Villa,1,2,A,2025/26
+18,Sun Dec 28,Sunderland,Leeds United,1,1,D,2025/26
+18,Sun Dec 28,Crystal Palace,Tottenham Hotspur,0,1,A,2025/26
+19,Tue Dec 30,Burnley,Newcastle United,1,3,A,2025/26
+19,Tue Dec 30,West Ham United,Brighton & Hove Albion,2,2,D,2025/26
+19,Tue Dec 30,Nottingham Forest,Everton,0,2,A,2025/26
+19,Tue Dec 30,Chelsea FC,Bournemouth,2,2,D,2025/26
+19,Tue Dec 30,Manchester United,Wolverhampton Wanderers,1,1,D,2025/26
+19,Tue Dec 30,Arsenal,Aston Villa,4,1,H,2025/26
+19,Thu Jan 1 2026,Liverpool,Leeds United,0,0,D,2025/26
+19,Thu Jan 1 2026,Crystal Palace,Fulham,1,1,D,2025/26
+19,Thu Jan 1 2026,Sunderland,Manchester City,0,0,D,2025/26
+19,Thu Jan 1 2026,Brentford,Tottenham Hotspur,0,0,D,2025/26
+20,Sat Jan 3,Aston Villa,Nottingham Forest,3,1,H,2025/26
+20,Sat Jan 3,Wolverhampton Wanderers,West Ham United,3,0,H,2025/26
+20,Sat Jan 3,Brighton & Hove Albion,Burnley,2,0,H,2025/26
+20,Sat Jan 3,Bournemouth,Arsenal,2,3,A,2025/26
+20,Sun Jan 4,Leeds United,Manchester United,1,1,D,2025/26
+20,Sun Jan 4,Tottenham Hotspur,Sunderland,1,1,D,2025/26
+20,Sun Jan 4,Newcastle United,Crystal Palace,2,0,H,2025/26
+20,Sun Jan 4,Everton,Brentford,2,4,A,2025/26
+20,Sun Jan 4,Fulham,Liverpool,2,2,D,2025/26
+20,Sun Jan 4,Manchester City,Chelsea FC,1,1,D,2025/26
+21,Tue Jan 6,West Ham United,Nottingham Forest,1,2,A,2025/26
+21,Wed Jan 7,Fulham,Chelsea FC,2,1,H,2025/26
+21,Wed Jan 7,Brentford,Sunderland,3,0,H,2025/26
+21,Wed Jan 7,Bournemouth,Tottenham Hotspur,3,2,H,2025/26
+21,Wed Jan 7,Manchester City,Brighton & Hove Albion,1,1,D,2025/26
+21,Wed Jan 7,Everton,Wolverhampton Wanderers,1,1,D,2025/26
+21,Wed Jan 7,Crystal Palace,Aston Villa,0,0,D,2025/26
+21,Wed Jan 7,Burnley,Manchester United,2,2,D,2025/26
+21,Wed Jan 7,Newcastle United,Leeds United,4,3,H,2025/26
+21,Thu Jan 8,Arsenal,Liverpool,0,0,D,2025/26
+22,Sat Jan 17,Manchester United,Manchester City,2,0,H,2025/26
+22,Sat Jan 17,Tottenham Hotspur,West Ham United,1,2,A,2025/26
+22,Sat Jan 17,Leeds United,Fulham,1,0,H,2025/26
+22,Sat Jan 17,Chelsea FC,Brentford,2,0,H,2025/26
+22,Sat Jan 17,Sunderland,Crystal Palace,2,1,H,2025/26
+22,Sat Jan 17,Liverpool,Burnley,1,1,D,2025/26
+22,Sat Jan 17,Nottingham Forest,Arsenal,0,0,D,2025/26
+22,Sun Jan 18,Wolverhampton Wanderers,Newcastle United,0,0,D,2025/26
+22,Sun Jan 18,Aston Villa,Everton,0,1,A,2025/26
+22,Mon Jan 19,Brighton & Hove Albion,Bournemouth,1,1,D,2025/26
+23,Sat Jan 24,West Ham United,Sunderland,3,1,H,2025/26
+23,Sat Jan 24,Manchester City,Wolverhampton Wanderers,2,0,H,2025/26
+23,Sat Jan 24,Fulham,Brighton & Hove Albion,2,1,H,2025/26
+23,Sat Jan 24,Burnley,Tottenham Hotspur,2,2,D,2025/26
+23,Sat Jan 24,Bournemouth,Liverpool,3,2,H,2025/26
+23,Sun Jan 25,Brentford,Nottingham Forest,0,2,A,2025/26
+23,Sun Jan 25,Newcastle United,Aston Villa,0,2,A,2025/26
+23,Sun Jan 25,Crystal Palace,Chelsea FC,1,3,A,2025/26
+23,Sun Jan 25,Arsenal,Manchester United,2,3,A,2025/26
+23,Mon Jan 26,Everton,Leeds United,1,1,D,2025/26
+24,Sat Jan 31,Leeds United,Arsenal,0,4,A,2025/26
+24,Sat Jan 31,Brighton & Hove Albion,Everton,1,1,D,2025/26
+24,Sat Jan 31,Wolverhampton Wanderers,Bournemouth,0,2,A,2025/26
+24,Sat Jan 31,Chelsea FC,West Ham United,3,2,H,2025/26
+24,Sat Jan 31,Liverpool,Newcastle United,4,1,H,2025/26
+24,Sun Feb 1,Nottingham Forest,Crystal Palace,1,1,D,2025/26
+24,Sun Feb 1,Manchester United,Fulham,3,2,H,2025/26
+24,Sun Feb 1,Aston Villa,Brentford,0,1,A,2025/26
+24,Sun Feb 1,Tottenham Hotspur,Manchester City,2,2,D,2025/26
+24,Mon Feb 2,Sunderland,Burnley,3,0,H,2025/26
+25,Fri Feb 6,Leeds United,Nottingham Forest,3,1,H,2025/26
+25,Sat Feb 7,Manchester United,Tottenham Hotspur,2,0,H,2025/26
+25,Sat Feb 7,Burnley,West Ham United,0,2,A,2025/26
+25,Sat Feb 7,Fulham,Everton,1,2,A,2025/26
+25,Sat Feb 7,Wolverhampton Wanderers,Chelsea FC,1,3,A,2025/26
+25,Sat Feb 7,Bournemouth,Aston Villa,1,1,D,2025/26
+25,Sat Feb 7,Arsenal,Sunderland,3,0,H,2025/26
+25,Sat Feb 7,Newcastle United,Brentford,2,3,A,2025/26
+25,Sun Feb 8,Brighton & Hove Albion,Crystal Palace,0,1,A,2025/26
+25,Sun Feb 8,Liverpool,Manchester City,1,2,A,2025/26
+26,Tue Feb 10,Chelsea FC,Leeds United,2,2,D,2025/26
+26,Tue Feb 10,Tottenham Hotspur,Newcastle United,1,2,A,2025/26
+26,Tue Feb 10,Everton,Bournemouth,1,2,A,2025/26
+26,Tue Feb 10,West Ham United,Manchester United,1,1,D,2025/26
+26,Wed Feb 11,Aston Villa,Brighton & Hove Albion,1,0,H,2025/26
+26,Wed Feb 11,Manchester City,Fulham,3,0,H,2025/26
+26,Wed Feb 11,Nottingham Forest,Wolverhampton Wanderers,0,0,D,2025/26
+26,Wed Feb 11,Crystal Palace,Burnley,2,3,A,2025/26
+26,Wed Feb 11,Sunderland,Liverpool,0,1,A,2025/26
+26,Thu Feb 12,Brentford,Arsenal,1,1,D,2025/26
+31,Wed Feb 18,Wolverhampton Wanderers,Arsenal,2,2,D,2025/26
+27,Sat Feb 21,Aston Villa,Leeds United,1,1,D,2025/26
+27,Sat Feb 21,Chelsea FC,Burnley,1,1,D,2025/26
+27,Sat Feb 21,Brentford,Brighton & Hove Albion,0,2,A,2025/26
+27,Sat Feb 21,West Ham United,Bournemouth,0,0,D,2025/26
+27,Sat Feb 21,Manchester City,Newcastle United,2,1,H,2025/26
+27,Sun Feb 22,Nottingham Forest,Liverpool,0,1,A,2025/26
+27,Sun Feb 22,Sunderland,Fulham,1,3,A,2025/26
+27,Sun Feb 22,Crystal Palace,Wolverhampton Wanderers,1,0,H,2025/26
+27,Sun Feb 22,Tottenham Hotspur,Arsenal,1,4,A,2025/26
+27,Mon Feb 23,Everton,Manchester United,0,1,A,2025/26
+28,Fri Feb 27,Wolverhampton Wanderers,Aston Villa,2,0,H,2025/26
+28,Sat Feb 28,Bournemouth,Sunderland,1,1,D,2025/26
+28,Sat Feb 28,Burnley,Brentford,3,4,A,2025/26
+28,Sat Feb 28,Liverpool,West Ham United,5,2,H,2025/26
+28,Sat Feb 28,Newcastle United,Everton,2,3,A,2025/26
+28,Sat Feb 28,Leeds United,Manchester City,0,1,A,2025/26
+28,Sun Mar 1,Manchester United,Crystal Palace,2,1,H,2025/26
+28,Sun Mar 1,Brighton & Hove Albion,Nottingham Forest,2,1,H,2025/26
+28,Sun Mar 1,Fulham,Tottenham Hotspur,2,1,H,2025/26
+28,Sun Mar 1,Arsenal,Chelsea FC,2,1,H,2025/26
+29,Tue Mar 3,Everton,Burnley,2,0,H,2025/26
+29,Tue Mar 3,Bournemouth,Brentford,0,0,D,2025/26
+29,Tue Mar 3,Leeds United,Sunderland,0,1,A,2025/26
+29,Tue Mar 3,Wolverhampton Wanderers,Liverpool,2,1,H,2025/26
+29,Wed Mar 4,Manchester City,Nottingham Forest,2,2,D,2025/26
+29,Wed Mar 4,Fulham,West Ham United,0,1,A,2025/26
+29,Wed Mar 4,Brighton & Hove Albion,Arsenal,0,1,A,2025/26
+29,Wed Mar 4,Aston Villa,Chelsea FC,1,4,A,2025/26
+29,Wed Mar 4,Newcastle United,Manchester United,2,1,H,2025/26
+29,Thu Mar 5,Tottenham Hotspur,Crystal Palace,1,3,A,2025/26
+30,Sat Mar 14,Sunderland,Brighton & Hove Albion,0,1,A,2025/26
+30,Sat Mar 14,Burnley,Bournemouth,0,0,D,2025/26
+30,Sat Mar 14,Chelsea FC,Newcastle United,0,1,A,2025/26
+30,Sat Mar 14,Arsenal,Everton,2,0,H,2025/26
+30,Sat Mar 14,West Ham United,Manchester City,1,1,D,2025/26
+30,Sun Mar 15,Manchester United,Aston Villa,3,1,H,2025/26
+30,Sun Mar 15,Crystal Palace,Leeds United,0,0,D,2025/26
+30,Sun Mar 15,Nottingham Forest,Fulham,0,0,D,2025/26
+30,Sun Mar 15,Liverpool,Tottenham Hotspur,1,1,D,2025/26
+30,Mon Mar 16,Brentford,Wolverhampton Wanderers,2,2,D,2025/26
+31,Fri Mar 20,Bournemouth,Manchester United,2,2,D,2025/26
+31,Sat Mar 21,Brighton & Hove Albion,Liverpool,2,1,H,2025/26
+31,Sat Mar 21,Fulham,Burnley,3,1,H,2025/26
+31,Sat Mar 21,Everton,Chelsea FC,3,0,H,2025/26
+31,Sat Mar 21,Leeds United,Brentford,0,0,D,2025/26
+31,Sun Mar 22,Newcastle United,Sunderland,1,2,A,2025/26
+31,Sun Mar 22,Tottenham Hotspur,Nottingham Forest,0,3,A,2025/26
+31,Sun Mar 22,Aston Villa,West Ham United,2,0,H,2025/26
+32,Fri Apr 10,West Ham United,Wolverhampton Wanderers,4,0,H,2025/26
+32,Sat Apr 11,Arsenal,Bournemouth,1,2,A,2025/26
+32,Sat Apr 11,Burnley,Brighton & Hove Albion,0,2,A,2025/26
+32,Sat Apr 11,Brentford,Everton,2,2,D,2025/26
+32,Sat Apr 11,Liverpool,Fulham,2,0,H,2025/26
+32,Sun Apr 12,Crystal Palace,Newcastle United,2,1,H,2025/26
+32,Sun Apr 12,Nottingham Forest,Aston Villa,1,1,D,2025/26
+32,Sun Apr 12,Sunderland,Tottenham Hotspur,1,0,H,2025/26
+32,Sun Apr 12,Chelsea FC,Manchester City,0,3,A,2025/26
+32,Mon Apr 13,Manchester United,Leeds United,1,2,A,2025/26
+33,Sat Apr 18,Brentford,Fulham,0,0,D,2025/26
+33,Sat Apr 18,Leeds United,Wolverhampton Wanderers,3,0,H,2025/26
+33,Sat Apr 18,Newcastle United,Bournemouth,1,2,A,2025/26
+33,Sat Apr 18,Tottenham Hotspur,Brighton & Hove Albion,2,2,D,2025/26
+33,Sat Apr 18,Chelsea FC,Manchester United,0,1,A,2025/26
+33,Sun Apr 19,Aston Villa,Sunderland,4,3,H,2025/26
+33,Sun Apr 19,Everton,Liverpool,1,2,A,2025/26
+33,Sun Apr 19,Nottingham Forest,Burnley,4,1,H,2025/26
+33,Sun Apr 19,Manchester City,Arsenal,2,1,H,2025/26
+33,Mon Apr 20,Crystal Palace,West Ham United,0,0,D,2025/26
+34,Tue Apr 21,Brighton & Hove Albion,Chelsea FC,3,0,H,2025/26
+34,Wed Apr 22,Bournemouth,Leeds United,2,2,D,2025/26
+34,Wed Apr 22,Burnley,Manchester City,0,1,A,2025/26
+34,Fri Apr 24,Sunderland,Nottingham Forest,0,5,A,2025/26
+34,Sat Apr 25,Fulham,Aston Villa,1,0,H,2025/26
+34,Sat Apr 25,Liverpool,Crystal Palace,3,1,H,2025/26
+34,Sat Apr 25,Wolverhampton Wanderers,Tottenham Hotspur,0,1,A,2025/26
+34,Sat Apr 25,West Ham United,Everton,2,1,H,2025/26
+34,Sat Apr 25,Arsenal,Newcastle United,1,0,H,2025/26
+34,Mon Apr 27,Manchester United,Brentford,2,1,H,2025/26
+35,Fri May 1,Leeds United,Burnley,3,1,H,2025/26
+35,Sat May 2,Newcastle United,Brighton & Hove Albion,3,1,H,2025/26
+35,Sat May 2,Brentford,West Ham United,3,0,H,2025/26
+35,Sat May 2,Wolverhampton Wanderers,Sunderland,1,1,D,2025/26
+35,Sat May 2,Arsenal,Fulham,3,0,H,2025/26
+35,Sun May 3,Bournemouth,Crystal Palace,3,0,H,2025/26
+35,Sun May 3,Manchester United,Liverpool,3,2,H,2025/26
+35,Sun May 3,Aston Villa,Tottenham Hotspur,1,2,A,2025/26
+35,Mon May 4,Chelsea FC,Nottingham Forest,1,3,A,2025/26
+35,Mon May 4,Everton,Manchester City,3,3,D,2025/26
+36,Sat May 9,Liverpool,Chelsea FC,1,1,D,2025/26
+36,Sat May 9,Sunderland,Manchester United,0,0,D,2025/26
+36,Sat May 9,Brighton & Hove Albion,Wolverhampton Wanderers,3,0,H,2025/26
+36,Sat May 9,Fulham,Bournemouth,0,1,A,2025/26
+36,Sat May 9,Manchester City,Brentford,3,0,H,2025/26
+36,Sun May 10,Nottingham Forest,Newcastle United,1,1,D,2025/26
+36,Sun May 10,Burnley,Aston Villa,2,2,D,2025/26
+36,Sun May 10,Crystal Palace,Everton,2,2,D,2025/26
+36,Sun May 10,West Ham United,Arsenal,0,1,A,2025/26
+36,Mon May 11,Tottenham Hotspur,Leeds United,1,1,D,2025/26
+31,Wed May 13,Manchester City,Crystal Palace,3,0,H,2025/26
+37,Fri May 15,Aston Villa,Liverpool,4,2,H,2025/26
+37,Sun May 17,Manchester United,Nottingham Forest,3,2,H,2025/26
+37,Sun May 17,Brentford,Crystal Palace,2,2,D,2025/26
+37,Sun May 17,Wolverhampton Wanderers,Fulham,1,1,D,2025/26
+37,Sun May 17,Everton,Sunderland,1,3,A,2025/26
+37,Sun May 17,Leeds United,Brighton & Hove Albion,1,0,H,2025/26
+37,Sun May 17,Newcastle United,West Ham United,3,1,H,2025/26
+37,Mon May 18,Arsenal,Burnley,1,0,H,2025/26
+37,Tue May 19,Bournemouth,Manchester City,1,1,D,2025/26
+37,Tue May 19,Chelsea FC,Tottenham Hotspur,2,1,H,2025/26
+38,Sun May 24,Sunderland,Chelsea FC,2,1,H,2025/26
+38,Sun May 24,Nottingham Forest,Bournemouth,1,1,D,2025/26
+38,Sun May 24,Brighton & Hove Albion,Manchester United,0,3,A,2025/26
+38,Sun May 24,Liverpool,Brentford,1,1,D,2025/26
+38,Sun May 24,Crystal Palace,Arsenal,1,2,A,2025/26
+38,Sun May 24,Manchester City,Aston Villa,1,2,A,2025/26
+38,Sun May 24,Fulham,Newcastle United,2,0,H,2025/26
+38,Sun May 24,West Ham United,Leeds United,3,0,H,2025/26
+38,Sun May 24,Tottenham Hotspur,Everton,1,0,H,2025/26
+38,Sun May 24,Burnley,Wolverhampton Wanderers,1,1,D,2025/26
