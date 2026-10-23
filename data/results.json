@@ -1,0 +1,398 @@
+{
+ "loso": {
+  "15": {
+   "auc": 0.961,
+   "model_hit": 0.824,
+   "naive_hit": 0.808,
+   "naive_pts_gd_hit": 0.832,
+   "seasons": 25,
+   "coefs": {
+    "Points": 0.725,
+    "GD": 0.515,
+    "GF": 0.66,
+    "GA": -0.15,
+    "W": 0.66,
+    "D": 0.08,
+    "L": -0.756,
+    "PPG": 0.725,
+    "RecentFormPts5": -0.143,
+    "EMA5": 0.17
+   }
+  },
+  "20": {
+   "auc": 0.979,
+   "model_hit": 0.92,
+   "naive_hit": 0.88,
+   "naive_pts_gd_hit": 0.888,
+   "seasons": 25,
+   "coefs": {
+    "Points": 0.73,
+    "GD": 0.922,
+    "GF": 0.98,
+    "GA": -0.572,
+    "W": 0.716,
+    "D": -0.155,
+    "L": -0.671,
+    "PPG": 0.73,
+    "RecentFormPts5": -0.261,
+    "EMA5": 0.376
+   }
+  },
+  "30": {
+   "auc": 0.986,
+   "model_hit": 0.904,
+   "naive_hit": 0.896,
+   "naive_pts_gd_hit": 0.896,
+   "seasons": 25,
+   "coefs": {
+    "Points": 0.986,
+    "GD": 0.814,
+    "GF": 0.678,
+    "GA": -0.771,
+    "W": 0.993,
+    "D": -0.337,
+    "L": -0.881,
+    "PPG": 0.986,
+    "RecentFormPts5": 0.197,
+    "EMA5": -0.506
+   }
+  }
+ },
+ "test": {
+  "actual_top5": [
+   "Arsenal",
+   "Man City",
+   "Man United",
+   "Aston Villa",
+   "Liverpool"
+  ],
+  "actual_matches_hardcoded_notebook": true,
+  "final_table_top7": [
+   [
+    "Arsenal",
+    85,
+    44,
+    71
+   ],
+   [
+    "Man City",
+    78,
+    42,
+    77
+   ],
+   [
+    "Man United",
+    71,
+    19,
+    69
+   ],
+   [
+    "Aston Villa",
+    65,
+    7,
+    56
+   ],
+   [
+    "Liverpool",
+    60,
+    10,
+    63
+   ],
+   [
+    "Bournemouth",
+    57,
+    4,
+    58
+   ],
+   [
+    "Sunderland",
+    54,
+    -6,
+    42
+   ]
+  ],
+  "15": {
+   "model": [
+    "Arsenal",
+    "Man City",
+    "Aston Villa",
+    "Crystal Palace",
+    "Chelsea"
+   ],
+   "baseline": [
+    "Arsenal",
+    "Man City",
+    "Aston Villa",
+    "Crystal Palace",
+    "Man United"
+   ],
+   "baseline_pts_gd": [
+    "Arsenal",
+    "Man City",
+    "Aston Villa",
+    "Crystal Palace",
+    "Chelsea"
+   ],
+   "model_correct": 3,
+   "baseline_correct": 4,
+   "baseline_pts_gd_correct": 3,
+   "tied_at_5th_cutoff": 2,
+   "model_misses": [
+    "Liverpool",
+    "Man United"
+   ],
+   "model_false_alarms": [
+    "Chelsea",
+    "Crystal Palace"
+   ],
+   "top8": [
+    [
+     "Arsenal",
+     33,
+     19,
+     2.789,
+     0.975
+    ],
+    [
+     "Man City",
+     31,
+     19,
+     4.548,
+     0.953
+    ],
+    [
+     "Aston Villa",
+     30,
+     7,
+     5.705,
+     0.773
+    ],
+    [
+     "Crystal Palace",
+     26,
+     8,
+     1.013,
+     0.469
+    ],
+    [
+     "Chelsea",
+     25,
+     10,
+     0.827,
+     0.469
+    ],
+    [
+     "Man United",
+     25,
+     4,
+     0.761,
+     0.381
+    ],
+    [
+     "Brighton",
+     23,
+     4,
+     1.037,
+     0.247
+    ],
+    [
+     "Tottenham",
+     22,
+     7,
+     -0.495,
+     0.194
+    ]
+   ]
+  },
+  "20": {
+   "model": [
+    "Arsenal",
+    "Man City",
+    "Aston Villa",
+    "Chelsea",
+    "Liverpool"
+   ],
+   "baseline": [
+    "Arsenal",
+    "Aston Villa",
+    "Man City",
+    "Liverpool",
+    "Man United"
+   ],
+   "baseline_pts_gd": [
+    "Arsenal",
+    "Man City",
+    "Aston Villa",
+    "Liverpool",
+    "Chelsea"
+   ],
+   "model_correct": 4,
+   "baseline_correct": 5,
+   "baseline_pts_gd_correct": 4,
+   "tied_at_5th_cutoff": 2,
+   "model_misses": [
+    "Man United"
+   ],
+   "model_false_alarms": [
+    "Chelsea"
+   ],
+   "top8": [
+    [
+     "Arsenal",
+     48,
+     26,
+     5.367,
+     0.999
+    ],
+    [
+     "Man City",
+     42,
+     26,
+     4.933,
+     0.995
+    ],
+    [
+     "Aston Villa",
+     42,
+     9,
+     9.416,
+     0.955
+    ],
+    [
+     "Chelsea",
+     31,
+     11,
+     0.053,
+     0.327
+    ],
+    [
+     "Liverpool",
+     34,
+     4,
+     1.51,
+     0.266
+    ],
+    [
+     "Man United",
+     31,
+     4,
+     0.334,
+     0.164
+    ],
+    [
+     "Brentford",
+     30,
+     4,
+     0.761,
+     0.094
+    ],
+    [
+     "Newcastle",
+     29,
+     4,
+     0.221,
+     0.078
+    ]
+   ]
+  },
+  "30": {
+   "model": [
+    "Arsenal",
+    "Man City",
+    "Man United",
+    "Chelsea",
+    "Aston Villa"
+   ],
+   "baseline": [
+    "Arsenal",
+    "Man City",
+    "Man United",
+    "Aston Villa",
+    "Liverpool"
+   ],
+   "baseline_pts_gd": [
+    "Arsenal",
+    "Man City",
+    "Man United",
+    "Aston Villa",
+    "Liverpool"
+   ],
+   "model_correct": 4,
+   "baseline_correct": 5,
+   "baseline_pts_gd_correct": 5,
+   "tied_at_5th_cutoff": 1,
+   "model_misses": [
+    "Liverpool"
+   ],
+   "model_false_alarms": [
+    "Chelsea"
+   ],
+   "top8": [
+    [
+     "Arsenal",
+     67,
+     37,
+     2.568,
+     0.999
+    ],
+    [
+     "Man City",
+     61,
+     32,
+     2.288,
+     0.991
+    ],
+    [
+     "Man United",
+     54,
+     13,
+     3.387,
+     0.593
+    ],
+    [
+     "Chelsea",
+     48,
+     18,
+     0.378,
+     0.385
+    ],
+    [
+     "Aston Villa",
+     51,
+     3,
+     -0.635,
+     0.326
+    ],
+    [
+     "Liverpool",
+     49,
+     9,
+     0.714,
+     0.323
+    ],
+    [
+     "Brentford",
+     45,
+     4,
+     0.799,
+     0.076
+    ],
+    [
+     "Newcastle",
+     42,
+     0,
+     -1.568,
+     0.042
+    ]
+   ]
+  }
+ },
+ "meta": {
+  "partial_seasons": {
+   "2003/04": 33,
+   "2004/05": 32,
+   "2024/25": 35
+  },
+  "n_train_seasons": 25
+ }
+}
