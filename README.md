@@ -1,7 +1,7 @@
 # Does early momentum predict a Premier League top-5 finish?
 
 An open, work-in-progress analysis. A simple win/draw/loss momentum signal is tested against the table at
-matchdays 15, 20 and 30. Trained on 2000/01-2024/25, tested blind on 2025/26. A live test on 2026/27 is planned.
+matchdays 15, 20 and 30. Trained on 2000/01-2024/25, tested blind on 2025/26. A live test on 2026/27 is planned, in accordance with the milestones earlier mentioned.
 
 **Signal, not proof.** One blind season is a small sample. Not betting advice.
 
